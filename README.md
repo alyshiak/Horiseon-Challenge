@@ -8,6 +8,6 @@
 
 https://alyshiak.github.io/Horiseon-Challenge/
 
-###Author
+## Author
 Alyshia Kandler
 @hotmail.com
