@@ -10,4 +10,4 @@ https://alyshiak.github.io/Horiseon-Challenge/
 
 ## Author
 Alyshia Kandler
-@hotmail.com
+# a.lyshia@hotmail.com
